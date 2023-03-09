@@ -7,7 +7,7 @@
                 <div class="d-sm-flex justify-content-between">
 
                     <div>
-                    <a href="{{ route ('investor.coin')}}" class="btn btn-raised btn-primary">Withdraw</a>
+                    <a href="{{ route ('investor.form')}}" class="btn btn-raised btn-primary">Withdraw</a>
                     </div>
 
                 </div>

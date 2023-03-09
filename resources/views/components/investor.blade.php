@@ -348,7 +348,7 @@
         <aside id="leftsidebar" class="sidebar">
             <!-- User Info -->
             <div class="user-info">
-                <div class="admin-image"> <img src="asset/images/random-avatar7.jpg" alt=""> </div>
+                <div class="admin-image"> <img src="" alt=""> </div>
                 <div class="admin-action-info"> <span>Welcome</span>
                     <h3>{{ Auth::user()->name }}
                     </h3>

@@ -11,7 +11,7 @@
                 <div class="col-lg-12 col-md-12 col-sm-12">
                     <div class="card">
                         <div class="header">
-                            <h2> Update your Profile <small></small> </h2>
+                            <h2> <small></small> </h2>
                         </div>
 
                         {{-- <form action="{{route('investor.updated', $user->id) }}}} " method="POST">
@@ -24,7 +24,7 @@
                                         <div class="form-group">
                                             <div class="form-line">
                                                 <input type="text" class="form-control" name="name"
-                                                    value="" placeholder="name">
+                                                    value="" placeholder="amount">
                                             </div>
                                         </div>
                                     </div>
@@ -32,7 +32,7 @@
                                         <div class="form-group">
                                             <div class="form-line">
                                                 <input type="email" class="form-control" name="Amount"
-                                                    value="" placeholder="email">
+                                                    value="" placeholder="name">
                                             </div>
                                         </div>
                                     </div>
@@ -42,7 +42,7 @@
                                         <div class="form-group">
                                             <div class="form-line">
                                                 <input type="numbe" class="datepicker form-control" name="Network"
-                                                    value="" placeholder="phone-number">
+                                                    value="" placeholder="network">
                                             </div>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@
                             </div>
 
                             <div class="col-sm-12">
-                                <button class="btn btn-raised g-bg-blush2"> </button>
+                                <button class="btn btn-raised g-bg-blush2">  Withdraw </button>
                             </div>
                         </form>
 
